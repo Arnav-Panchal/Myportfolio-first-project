@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/real.jpg);
+	background-image: url(../real.jpg);
 	background-size: cover;
 	background-position: center;
 }
